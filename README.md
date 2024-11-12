@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh, an <a href="https://linkedin.com/in/rashad-moore-13163a8a">IT Professional</a>☺</h1>
+<h1>Hi, I'm Rashad, an <a href="https://linkedin.com/in/rashad-moore-13163a8a">IT Professional</a>😊</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
